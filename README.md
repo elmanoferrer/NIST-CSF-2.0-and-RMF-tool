@@ -40,34 +40,34 @@ Support the creation of Profiles, Implementation Plans, and Risk Strategies base
 NIST Cybersecurity Framework (CSF) 2.0
 Includes:
 
-Govern
+* Govern
 
-Identify
+* Identify
 
-Protect
+* Protect
 
-Detect
+* Detect
 
-Respond
+* Respond
 
-Recover
+* Recover
 
 NIST Risk Management Framework (RMF)
 Includes:
 
-Prepare
+* Prepare
 
-Categorize
+* Categorize
 
-Select
+* Select
 
-Implement
+* Implement
 
-Assess
+* Assess
 
-Authorize
+* Authorize
 
-Monitor
+* Monitor
 
 🛠 Methodology
 The mapping was developed by:
@@ -83,11 +83,11 @@ Structuring the mapping to be easy to read, modular, and expandable.
 🤝 Contributing
 Contributions are welcome. If you want to improve the mapping, add references, or propose enhancements:
 
-Fork the repository
+- Fork the repository
 
-Create a feature branch
+- Create a feature branch
 
-Submit a pull request
+- Submit a pull request
 
 Please ensure that contributions follow NIST terminology and maintain clarity and accuracy.
 
